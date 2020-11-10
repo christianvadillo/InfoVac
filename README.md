@@ -1,4 +1,4 @@
-FakeNewsDetection
+InfoVac
 ==============================
 
 Final project for Saturdays AI LATAM
@@ -14,6 +14,7 @@ Project Organization
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
+    │   └── train          <- Splits used in the training step.
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
