@@ -2,6 +2,7 @@ InfoVac
 ==============================
 
 Final project for Saturdays AI LATAM
+Team: Turquesa
 
 Project Organization
 ------------
