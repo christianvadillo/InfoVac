@@ -12,7 +12,8 @@ Equipo: Turquesa
     5. Antonio Calzadilla Miranda / word
     
 3. Nombre detallado del proyecto 
-    Plataforma web de detección de noticias e información confiables relacionadas a la pandemia de COVID-19 en habla hispana
+
+*Plataforma web de detección de noticias e información confiables relacionadas a la pandemia de COVID-19 en habla hispana
     
 4. Nombre corto o comercial del proyecto 
     InfoVac
