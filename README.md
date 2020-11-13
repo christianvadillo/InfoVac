@@ -12,16 +12,16 @@ Equipo: Turquesa
     - Antonio Calzadilla Miranda / word
     
 3. Nombre detallado del proyecto 
-- Plataforma web de detección de noticias e información confiables relacionadas a la pandemia de COVID-19 en habla hispana
+    - Plataforma web de detección de noticias e información confiables relacionadas a la pandemia de COVID-19 en habla hispana
     
 4. Nombre corto o comercial del proyecto 
-    InfoVac
+   - InfoVac
     
 5. Eje rector o impacto social
-    SALUD
+   - SALUD
     
 6. Alineación o impacto hacia objetivos de desarrollo sostenible
-    Salud y Bienestar 
+   -  Salud y Bienestar 
 
 
 Project Organization
