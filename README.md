@@ -1,6 +1,6 @@
-```diff
-# + InfoVac
-```
+
+# InfoVac
+
 ==============================
 
 Proyecto final para Saturdays AI edición LATAM
