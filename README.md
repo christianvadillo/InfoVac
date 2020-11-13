@@ -1,8 +1,16 @@
 InfoVac
 ==============================
 
-Final project for Saturdays AI LATAM
-Team: Turquesa
+Proyecto final para Saturdays AI edición LATAM
+Equipo: Turquesa
+
+1. Miembros del equipo 
+1. Irene Velasco Rocha/ Project manager - Líder de equipo 
+2. Christian J. Vadillo Mejía / ML Engineer 
+3. Alejandro Tapia / Desarrollador web/bi - Líder de equipo (respaldo) 
+4. Esteban Molina Saez / Desarrollador 
+5. Antonio Calzadilla Miranda / word
+
 
 Project Organization
 ------------
