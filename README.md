@@ -24,13 +24,12 @@ Equipo: Turquesa
    -  Salud y Bienestar 
 
 7. Descripción del problema específico
-
-Se pueden detectar más de 3 mil millones de mensajes y más de 100 mil millones de publicaciones que utilizan #covid19, #coronavirus y otras etiquetas similares
+   - Se pueden detectar más de 3 mil millones de mensajes y más de 100 mil millones de publicaciones que utilizan #covid19, #coronavirus y otras etiquetas similares
 “Infodemia” es un término acuñado por la Organización Mundial de la Salud (OMS) en el pasado mes de mayo para describir la propagación de la desinformación sobre el virus que hace difícil que la gente encuentre recursos fiables para obtener noticias claras por los medios de comunicación tradicionales, ya que el público se encuentra con material relacionado con el coronavirus en las redes sociales.
 Encuestas en Estados Unidos, Brasil y México muestran que aproximadamente la mitad de los adultos están estresados por la emergencia sanitaria. Esto ha incrementado el consumo de drogas y alcohol, lo cual “puede exacerbar los problemas de salud mental” (REUTERS)
 
 8. Hipótesis
-Es posible que por medio de una plataforma web conectada a un sistema de aprendizaje automático las personas que viven en Chile puedan diferenciar una noticia falsa o información de baja confiabilidad de una noticia o información real, todo lo anterior en el contexto de noticias referentes a la pandemia de COVID-19 que se está desarrollando actualmente. 
+    - Es posible que por medio de una plataforma web conectada a un sistema de aprendizaje automático las personas que viven en Chile puedan diferenciar una noticia falsa o información de baja confiabilidad de una noticia o información real, todo lo anterior en el contexto de noticias referentes a la pandemia de COVID-19 que se está desarrollando actualmente. 
 
 
 Estructura del proyecto
