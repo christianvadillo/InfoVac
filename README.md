@@ -1,12 +1,6 @@
 ```diff
-- text in
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
++ # InfoVac
 ```
-
-InfoVac
 ==============================
 
 Proyecto final para Saturdays AI edición LATAM
