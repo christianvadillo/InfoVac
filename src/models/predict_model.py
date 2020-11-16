@@ -3,8 +3,14 @@ from src.models.support_functions import NormalizeTextTransformer
 from typing import List
 from lime.lime_text import LimeTextExplainer
 
-file = 'models/svm_pipeline_10_Nov_2020_13_10.sav'
-model = joblib.load(file)
+file = '../../models/svm_pipeline_10_Nov_2020_13_10.sav'
+
+try:
+    model = joblib.load(file)
+except Exception as e:
+    print(e)
+    # For docker use
+    model = joblib.load('models/svm_pipeline_10_Nov_2020_13_10.sav')
 class_names = {0: 'no confiable', 1:'confiable'}
 
 
@@ -35,10 +41,10 @@ def explain(text: List[str]):
     return response
 
 
-# if __name__ == '__main__':
-#     pred = predict(['Esto es un texto de prueba para nuestro clasificador svm para detectar información poco confiable',
-#              'Una receta con aspirinas, jengibre, canela, limón, cebolla y miel cura el COVID-19',
-#              "Circularon en redes sociales supuestas declaraciones del actor argentino sobre el caso de la joven cordobesa que no pudo ver a su padre antes de morir de cáncer en Córdoba, debido a las medidas de restricción de la pandemia. ”La chica pudo ver a su padre por wassap. No es que no la vio” (sic), es la frase que se le atribuye a Rizzo y que es falsa, ya que no hay registros públicos de que haya hecho tales afirmaciones. ",
-#             ])
-#
-#     print(pred)
+if __name__ == '__main__':
+    pred = predict(['Esto es un texto de prueba para nuestro clasificador svm para detectar información poco confiable',
+             'Una receta con aspirinas, jengibre, canela, limón, cebolla y miel cura el COVID-19',
+             "Circularon en redes sociales supuestas declaraciones del actor argentino sobre el caso de la joven cordobesa que no pudo ver a su padre antes de morir de cáncer en Córdoba, debido a las medidas de restricción de la pandemia. ”La chica pudo ver a su padre por wassap. No es que no la vio” (sic), es la frase que se le atribuye a Rizzo y que es falsa, ya que no hay registros públicos de que haya hecho tales afirmaciones. ",
+            ])
+
+    print(pred)
