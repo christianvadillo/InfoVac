@@ -1,10 +1,11 @@
 
-# InfoVac
+# InfoVac.IA
 
 ==============================
 
 Proyecto final para Saturdays AI edición LATAM
 Equipo: Turquesa
+Mentor: [Edwin Jiménez Lepe](https://www.linkedin.com/in/edwinjimenezlepe)
 
 1. Miembros del equipo 
     - Irene Velasco Rocha/ Project manager - Líder de equipo 
