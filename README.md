@@ -5,20 +5,21 @@
 
 Proyecto final para Saturdays AI edición LATAM
 Equipo: Turquesa
+
 Mentor: [Edwin Jiménez Lepe](https://www.linkedin.com/in/edwinjimenezlepe)
 
 1. Miembros del equipo 
-    - Irene Velasco Rocha/ Project manager - Líder de equipo 
-    - Christian J. Vadillo Mejía / ML Engineer 
-    - Alejandro Tapia / Desarrollador web/bi - Líder de equipo (respaldo) 
-    - Esteban Molina Saez / Desarrollador 
-    - Antonio Calzadilla Miranda / word
+    - [Irene Velasco Rocha/ Project manager - Líder de equipo](https://www.linkedin.com/in/irene041204) 
+    - [Christian J. Vadillo Mejía / ML Engineer](https://www.linkedin.com/in/christian-vadillo)
+    - [Alejandro Tapia / Desarrollador web/bi - Líder de equipo (respaldo)](https://www.linkedin.com/in/atapiabueno/)
+    - [Esteban Molina Saez / Desarrollador](https://www.linkedin.com/in/estebanmolinasaez)
+    - [Antonio Calzadilla Miranda /  Business Analyst](https://www.linkedin.com/in/antonio-calzadilla-miranda-8a86747b/)
     
 3. Nombre detallado del proyecto 
     - Plataforma web de detección de noticias e información confiables relacionadas a la pandemia de COVID-19 en habla hispana
     
 4. Nombre corto o comercial del proyecto 
-   - InfoVac
+   - InfoVac.IA
     
 5. Eje rector o impacto social
    - SALUD
