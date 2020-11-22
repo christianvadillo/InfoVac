@@ -82,6 +82,8 @@ Estructura del proyecto
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
+    ├── app
+    │   ├── main.py       <- Main application that contains the FastAPI server that is used in the Docker container.
     ├── data
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
