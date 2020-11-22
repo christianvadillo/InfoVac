@@ -44,7 +44,7 @@ Mentor: [Edwin Jiménez Lepe / Data Engineer](https://www.linkedin.com/in/edwinj
 Encuestas en Estados Unidos, Brasil y México muestran que aproximadamente la mitad de los adultos están estresados por la emergencia sanitaria. Esto ha incrementado el consumo de drogas y alcohol, lo cual “puede exacerbar los problemas de salud mental” (REUTERS)
 
 8. Hipótesis
-    - Es posible que por medio de una plataforma web conectada a un sistema de aprendizaje automático las personas que viven en Chile puedan diferenciar una noticia falsa o información de baja confiabilidad de una noticia o información real, todo lo anterior en el contexto de noticias referentes a la pandemia de COVID-19 que se está desarrollando actualmente. 
+    - Es posible que por medio de una plataforma web conectada a un sistema de aprendizaje automático los millennials de habla hispana puedan diferenciar una noticia falsa o información de baja confiabilidad de una noticia o información real, todo lo anterior en el contexto de noticias referentes a la pandemia de COVID-19 que se está desarrollando actualmente. 
 
 
 # Docker Container 
