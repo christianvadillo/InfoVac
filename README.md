@@ -6,7 +6,7 @@
 
 <a href="https://www.saturdays.ai/" rel="Saturdays.ai">![saturdays](https://www.saturdays.ai/images/logo.png)</a>
 <a href="https://www.linkedin.com/school/saturdaysai/" rel="link.Saturdays.ai">![linkedin](https://img.flaticon.com/icons/png/512/174/174857.png?size=45x45f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)</a>
-<a href="https://www.facebook.com/AISaturdaysEsp/" rel="face.Saturdays.ai">![Facebook](https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=45&h=45)</a>
+<a href="https://www.facebook.com/AISaturdaysEsp/" rel="face.Saturdays.ai">![Facebook](https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=40&h=40)</a>
 
 
 
