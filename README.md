@@ -62,39 +62,19 @@ In order to run this container you'll need docker installed.
 
 ### Usage
 
-#### Compile the Dockerfile
+#### clone the repository
 ```shell
 git clone https://github.com/christianvadillo/InfoVac/
-docker build infovac-app .
+```
+#### Compile the Dockerfile
+```shell
+docker build -t infovac-app .
 ```
 
-#### Container Parameters
-
-List the different parameters available to your container
-
+#### Run the docker with the server
 ```shell
 docker run -p 8001:8001 infovac-app
 ```
-
-One example per permutation 
-
-```shell
-docker run give.example.org/of/your/container:v0.2.1
-```
-
-Show how to get a shell started in your container too
-
-```shell
-docker run give.example.org/of/your/container:v0.2.1 bash
-```
-
-
-
-
-
-
-
-
 
 Estructura del proyecto
 ------------
