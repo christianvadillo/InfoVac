@@ -1,7 +1,6 @@
+![Logo](https://raw.githubusercontent.com/christianvadillo/InfoVac/main/reports/figures/logo_infovac.png)
 
-# InfoVac.IA
-
-==============================
+======================================================================================
 
 
 <a href="https://www.saturdays.ai/" rel="Saturdays.ai">![saturdays](https://www.saturdays.ai/images/logo.png)</a>
