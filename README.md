@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/christianvadillo/InfoVac/main/reports/figures/logo_infovac.png" />
+
+<p align="center">
+============================================================================
 </p>
-======================================================================================
 
 <a href="https://www.saturdays.ai/" rel="Saturdays.ai">![saturdays](https://www.saturdays.ai/images/logo.png)</a>
 
@@ -15,10 +17,10 @@ Proyecto final para [Saturdays AI](https://www.saturdays.ai/) edición [LATAM](h
 
 Equipo: Turquesa
 
-Mentor: [Edwin Jiménez Lepe - Data Engineer](https://www.linkedin.com/in/edwinjimenezlepe)
+Mentor: [Edwin Jiménez Lepe / Data Engineer](https://www.linkedin.com/in/edwinjimenezlepe)
 
 1. Miembros del equipo 
-    - [Irene Velasco Rocha/ Project manager - Líder de equipo](https://www.linkedin.com/in/irene041204) 
+    - [Irene Velasco Rocha / Project manager - Líder de equipo](https://www.linkedin.com/in/irene041204) 
     - [Christian J. Vadillo Mejía / ML Engineer](https://www.linkedin.com/in/christian-vadillo)
     - [Alejandro Tapia / Web Developer/BI- Líder de equipo (respaldo)](https://www.linkedin.com/in/atapiabueno/)
     - [Esteban Molina Saez / Developer](https://www.linkedin.com/in/estebanmolinasaez)
