@@ -16,13 +16,13 @@ Proyecto final para [Saturdays AI](https://www.saturdays.ai/) edición [LATAM](h
 
 Equipo: Turquesa
 
-Mentor: [Edwin Jiménez Lepe](https://www.linkedin.com/in/edwinjimenezlepe)
+Mentor: [Edwin Jiménez Lepe - Data Engineer](https://www.linkedin.com/in/edwinjimenezlepe)
 
 1. Miembros del equipo 
     - [Irene Velasco Rocha/ Project manager - Líder de equipo](https://www.linkedin.com/in/irene041204) 
     - [Christian J. Vadillo Mejía / ML Engineer](https://www.linkedin.com/in/christian-vadillo)
-    - [Alejandro Tapia / Desarrollador web/bi - Líder de equipo (respaldo)](https://www.linkedin.com/in/atapiabueno/)
-    - [Esteban Molina Saez / Desarrollador](https://www.linkedin.com/in/estebanmolinasaez)
+    - [Alejandro Tapia / Web Developer/BI- Líder de equipo (respaldo)](https://www.linkedin.com/in/atapiabueno/)
+    - [Esteban Molina Saez / Developer](https://www.linkedin.com/in/estebanmolinasaez)
     - [Antonio Calzadilla Miranda /  Business Analyst](https://www.linkedin.com/in/antonio-calzadilla-miranda-8a86747b/)
     
 3. Nombre detallado del proyecto 
