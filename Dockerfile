@@ -26,6 +26,7 @@ EXPOSE 8001
 CMD ["python", "./app/main.py"]
 
 
+# To build the container
+# docker build -t infovac-app .
 # To run in terminal
-#uvicorn app:app --port 8001 --reload
 # docker run -p 8001:8001 infovac-app
