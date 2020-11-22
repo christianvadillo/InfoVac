@@ -5,9 +5,9 @@
 
 
 <a href="https://www.saturdays.ai/" rel="Saturdays.ai">![saturdays](https://www.saturdays.ai/images/logo.png)</a>
+<a href="https://www.linkedin.com/school/saturdaysai/" rel="link.Saturdays.ai">![linkedin](https://img.flaticon.com/icons/png/512/174/174857.png?size=45x45f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)</a>
 
 
-![https://www.linkedin.com/school/saturdaysai/](https://img.flaticon.com/icons/png/512/174/174857.png?size=45x45f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)
 
 Proyecto final para [Saturdays AI](https://www.saturdays.ai/) edición [LATAM](https://www.saturdays.ai/edicion-latam.html)
 
